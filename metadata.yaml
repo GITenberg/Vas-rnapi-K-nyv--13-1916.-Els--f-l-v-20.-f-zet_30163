@@ -1,0 +1,27 @@
+_repo: Vas-rnapi-K-nyv--13-1916.-Els--f-l-v-20.-f-zet_30163
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Árkay, Kálmán
+    aliases:
+    - Kálmán Árkay
+    - Kalman Arkay
+    gutenberg_agent_id: '9621'
+    url: http://www.gutenberg.org/2009/agents/9621
+description: ''
+gutenberg_issued: '2009-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30163'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AP'
+- !lcsh 'Periodicals'
+title: Vasárnapi Könyv. 1916. Első félév 20. füzet
+url: http://www.gutenberg.org/ebooks/30163
